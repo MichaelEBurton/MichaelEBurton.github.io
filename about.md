@@ -31,7 +31,7 @@ For a copy of my resume click [here]({{ https://MichaelEBurton.github.io }}/prof
   - During the summer of 2017, I was a canoe guide at "Northern Tier," the Scouts BSA national high adventure base located next to [Boundary Waters Canoe Area Wilderness](https://www.fs.usda.gov/detail/superior/specialplaces/?cid=fseprd555184).
 + Backpacking/Hiking
 + Rock Climbing
-
++ Bowling
 
 ### Contact me
 
