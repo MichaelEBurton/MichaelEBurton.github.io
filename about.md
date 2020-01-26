@@ -14,12 +14,12 @@ If you're viewing this website close to January 24th, 2019 then it probably isn'
 ### More Information
 
 Some of my interests include:
-- Statistical Data Analysis
-- Machine Learning (I'm currently in a [deep learning reading group](https://github.com/AlvinSheng/SLG-Deep-Learning))
-- Canoeing (**not kayaking!**)
--- During the summer of 2017, I was a canoe guide at "Northern Tier," the Scouts BSA national high adventure base located next to [Boundary Waters Canoe Area Wilderness](https://www.fs.usda.gov/detail/superior/specialplaces/?cid=fseprd555184).
-- Backpacking/Hiking
-- Rock Climbing
+* Statistical Data Analysis
+* Machine Learning (I'm currently in a [deep learning reading group](https://github.com/AlvinSheng/SLG-Deep-Learning))
+* Canoeing (**not kayaking!**)
+ * During the summer of 2017, I was a canoe guide at "Northern Tier," the Scouts BSA national high adventure base located next to [Boundary Waters Canoe Area Wilderness](https://www.fs.usda.gov/detail/superior/specialplaces/?cid=fseprd555184).
+* Backpacking/Hiking
+* Rock Climbing
 
 ### Contact me
 
