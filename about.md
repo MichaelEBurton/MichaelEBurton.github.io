@@ -5,13 +5,23 @@ permalink: /about/
 ---
 
 Hi, 
-My name is Michael Burton, and I am statistics student at [NC State University](https://statistics.sciences.ncsu.edu/). I am currently on track to graduate in May of 2020 with a Master's of Statistics degree. Upon graduation I plan to begin work in the data science, analytics, statistics, or related field. 
+My name is Michael Burton, and I am statistics student at [NC State University](https://statistics.sciences.ncsu.edu/). I am currently on track to graduate in May of 2020 with a Master's of Statistics degree.
 
-If you're viewing this website close to January 24th, 2019 then it probably isn't that impressive as I am new to Jekyll. I hope you will revisit in the future and be amazed at the progress I have made.
+Upon graduation I plan to begin work in the data science, analytics, statistics, or related field. 
 
+For a copy of my resume click [here]({{ https://MichaelEBurton.github.io }}/professional_resume_spring2020.pdf) 
 
+### Skills
++ R Programming
++ Python Programming
++ SAS Programming
+  - [SAS Certified Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/047e8f37-ed81-4b2a-8be0-6968d4d42d4c/linked_in_profile)
++ SQL
++ Git
++ Unix
++ Keras
 
-### More Information
+### Hobbies
 
 Some of my interests include:
 + Statistical Data Analysis
