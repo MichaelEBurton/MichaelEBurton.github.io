@@ -22,10 +22,10 @@ Some of my interests include:
 * Rock Climbing
 
 ## Example List
-* Item 1
-* Item 2
- + Sub Item 1
- + Sub Item 2
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
 
 ### Contact me
 
