@@ -21,11 +21,12 @@ For a copy of my resume click [here]({{ https://MichaelEBurton.github.io }}/prof
 + Unix
 + Keras
 
-### Hobbies
-
-Some of my interests include:
+### Interests
++ Programming
 + Statistical Data Analysis
 + Machine Learning (I'm currently in a [deep learning reading group](https://github.com/AlvinSheng/SLG-Deep-Learning))
+
+### Hobbies
 + Canoeing (**not kayaking!**)
   - During the summer of 2017, I was a canoe guide at "Northern Tier," the Scouts BSA national high adventure base located next to [Boundary Waters Canoe Area Wilderness](https://www.fs.usda.gov/detail/superior/specialplaces/?cid=fseprd555184).
 + Backpacking/Hiking
