@@ -24,8 +24,8 @@ Some of my interests include:
 ## Example List
 * Item 1
 * Item 2
- * Sub Item 1
- * Sub Item 2
+ + Sub Item 1
+ + Sub Item 2
 
 ### Contact me
 
