@@ -21,6 +21,12 @@ Some of my interests include:
 * Backpacking/Hiking
 * Rock Climbing
 
+## Example List
+* Item 1
+* Item 2
+ * Sub Item 1
+ * Sub Item 2
+
 ### Contact me
 
 [meburton@ncsu.edu](mailto:meburton@ncsu.edu)
