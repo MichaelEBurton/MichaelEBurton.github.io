@@ -24,14 +24,17 @@ If you would like to learn more about my skill set you can click [here](https://
 ## Resources
 As someone who is always eager to learn new and exciting technologies here is a list of some resources that I've found helpful, or think will be useful in the future.
      
-|Books I'm paging my way through | Books of interest|
-| ------------------------------ | ---------------- |
-|[A whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) |  [Advanced R](http://adv-r.had.co.nz/)|
-| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)||
-|[The Linux Command Line](http://linuxcommand.org/tlcl.php) |[Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)|
-|[Deep Learning](https://www.deeplearningbook.org/)| |
-| [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r) |[Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)|
++ Books I'm paging my way through 
+  - [A whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+  - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
+  - [Deep Learning](https://www.deeplearningbook.org/)
+  - [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
 
++ Books of interest
+  - [Advanced R](http://adv-r.had.co.nz/)
+  - [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+  - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ## Contact Me
 If you would like to get in touch with me about potential job opportunities, statistics, machine learning, or the BWCAW, shoot me an email.
