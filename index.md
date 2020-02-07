@@ -30,12 +30,18 @@ As someone who is always eager to learn new and exciting technologies here is a 
   - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
   - [Deep Learning](https://www.deeplearningbook.org/)
   - [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
-
+  - [Applied Multivariate Statistical Analysis](https://www.amazon.com/Multivariate-Statistical-Analysis-Classics-Statistics/dp/0134995392/ref=sr_1_3?keywords=multivariate+statistics&qid=1581117018&sr=8-3)
+  
 + Books of interest
   - [Advanced R](http://adv-r.had.co.nz/)
   - [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
   - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+  - [Learning SAS by Example](https://www.sas.com/store/books/categories/getting-started/learning-sas-by-example-a-programmer-s-guide-second-edition/prodBK_71442_en.html)
 
++ Wishlist
+  - [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
+  - [Machine Learning a Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-1)
+  
 ## Contact Me
 If you would like to get in touch with me about potential job opportunities, statistics, machine learning, or the BWCAW, shoot me an email.
 
