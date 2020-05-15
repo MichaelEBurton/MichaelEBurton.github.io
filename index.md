@@ -5,14 +5,14 @@ title: Home
 
 <img src="colsprings.jpg" alt="Picture" width="200"/>
 
-Hello, welcome to my website, my name is Michael Burton and I am current a graduate student at North Carolina State University pursuing a masters degree in statistics with an anticipated graduation date in May 2020. I am currently searching for positions where I can leverage my data science, analytical, and statistical expertise.
+Hello, welcome to my website, my name is Michael Burton and I am a recent graduate of North Carolina State University masters of statistics. I am currently searching for positions where I can leverage my data science, analytical, and statistical expertise.
 
 If you would like to learn more about my skill set you can click [here](https://michaeleburton.github.io/about/). 
 
 ## Professional Interests
-+ Programming (Statistical or not)
++ Programming (Statistical or not; I am currently teaching myself [C++](https://github.com/MichaelEBurton/PPP_Cpp))
 + Statistical Data Analysis
-+ Machine Learning (I'm currently in a [deep learning reading group](https://github.com/AlvinSheng/SLG-Deep-Learning))
++ Machine Learning (I'm was recently in a [deep learning reading group](https://github.com/AlvinSheng/SLG-Deep-Learning))
 
 ## Hobbies
 + Canoeing (**not kayaking!**)
@@ -25,17 +25,19 @@ If you would like to learn more about my skill set you can click [here](https://
 As someone who is always eager to learn new and exciting technologies here is a list of some resources that I've found helpful, or think will be useful in the future.
      
 + Books I'm paging my way through 
-  - [A whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+  - [Programming -- Principles and Practice using C++](http://www.stroustrup.com/Programming/)
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
-  - [Deep Learning](https://www.deeplearningbook.org/)
-  - [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
-  - [Applied Multivariate Statistical Analysis](https://www.amazon.com/Multivariate-Statistical-Analysis-Classics-Statistics/dp/0134995392/ref=sr_1_3?keywords=multivariate+statistics&qid=1581117018&sr=8-3)
+  
+  
   
 + Books of interest
   - [Advanced R](http://adv-r.had.co.nz/)
   - [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
   - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+  - [Deep Learning](https://www.deeplearningbook.org/)
+  - [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
+  - [A whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
   - [Learning SAS by Example](https://www.sas.com/store/books/categories/getting-started/learning-sas-by-example-a-programmer-s-guide-second-edition/prodBK_71442_en.html)
 
 + Wishlist
