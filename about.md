@@ -14,20 +14,23 @@ I am currently open to new opportunities where I can leverage my data analysis a
 
 For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io }}/professional_resume_spring2020.pdf) 
 
-### Skills
-**Programming Languages**: 
+## Skills
+**Programming Languages**:    
 + [C++](https://github.com/MichaelEBurton/PPP_Cpp)
 + SAS Programming
   - [SAS Certified Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/047e8f37-ed81-4b2a-8be0-6968d4d42d4c/linked_in_profile)
 + R Programming
 + Python Programming 
-**Databases**:
+
+**Databases**:     
 + SQL
-**Software tools and operating systems**:
+
+**Software tools and operating systems**:     
 + Git
 + Unix
 + Windows 
-**Statistics**
+**Statistics**:     
+
 + Mixed Models
 + Regression (Linear, Nonlinear, GAMs
 + ANOVA Models
@@ -35,6 +38,6 @@ For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io
 + Longitudinal Data Analysis (Mean and Covariance modeling)
 + Machine Learning (Tree-Based Methods, Artificial Neural Networks, Clustering)
 
-### Contact me
+## Contact me
 
 [meburton@ncsu.edu](mailto:meburton@ncsu.edu)
