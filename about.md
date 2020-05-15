@@ -20,15 +20,16 @@ For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io
 + SAS Programming
   - [SAS Certified Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/047e8f37-ed81-4b2a-8be0-6968d4d42d4c/linked_in_profile)
 + R Programming
-+ Python Programming 
++ Python Programming     
 
 **Databases**:     
-+ SQL
++ SQL     
 
 **Software tools and operating systems**:     
 + Git
 + Unix
-+ Windows 
++ Windows     
+      
 **Statistics**:     
 
 + Mixed Models
@@ -36,7 +37,7 @@ For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io
 + ANOVA Models
 + Multivariate Statistics (MANOVA, PCA, Factor Analysis, Discriminant Analysis)
 + Longitudinal Data Analysis (Mean and Covariance modeling)
-+ Machine Learning (Tree-Based Methods, Artificial Neural Networks, Clustering)
++ Machine Learning (Tree-Based Methods, Artificial Neural Networks, Clustering)     
 
 ## Contact me
 
