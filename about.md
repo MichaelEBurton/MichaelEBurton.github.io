@@ -17,7 +17,7 @@ For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io
 ## Skills
 **Programming Languages**:    
 + [C++](https://github.com/MichaelEBurton/PPP_Cpp)
-+ SAS Programming
++ [SAS Programming](https://github.com/MichaelEBurton/SAS_Samples)
   - [SAS Certified Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/047e8f37-ed81-4b2a-8be0-6968d4d42d4c/linked_in_profile)
   - [Sample Programs](https://github.com/MichaelEBurton/SAS_Samples) 
 + R Programming
