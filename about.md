@@ -12,7 +12,7 @@ During my time at NC State, I was fortunate to supplement my education with prac
 
 I am currently open to new opportunities where I can leverage my data analysis and programming skills. Examples of positions I am interested in include: statistical programmer, statistician, data scientist, and data analyst.
 
-For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io }}/professional_resume_fall2020.pdf) 
+For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io }}/Professional_resume_fall2020.pdf) 
 
 ## Skills
 **Programming Languages**:    
