@@ -10,15 +10,16 @@ My name is Michael Burton, a North Carolina native, and recent master's of stati
 
 During my time at NC State, I was fortunate to supplement my education with practical experience in data analysis gained through undergraduate research, consulting experiences, and interning with multiple fortune 500 companies. In addition to the technical skills I gained in these various roles I was able to practice interpersonal skills while working both independently and collaboratively in a team based setting. 
 
-I am currently open to new opportunities where I can leverage my data analysis and programming skills. Examples of positions I am interested in include: data scientist, data analyst, statistical programmer, and statistician.
+I am currently open to new opportunities where I can leverage my data analysis and programming skills. Examples of positions I am interested in include: statistical programmer, statistician, data scientist, and data analyst.
 
-For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io }}/professional_resume_spring2020.pdf) 
+For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io }}/professional_resume_fall2020.pdf) 
 
 ## Skills
 **Programming Languages**:    
 + [C++](https://github.com/MichaelEBurton/PPP_Cpp)
 + SAS Programming
   - [SAS Certified Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/047e8f37-ed81-4b2a-8be0-6968d4d42d4c/linked_in_profile)
+  - [Sample Programs](https://github.com/MichaelEBurton/SAS_Samples) 
 + R Programming
 + Python Programming     
 

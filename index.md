@@ -5,12 +5,13 @@ title: Home
 
 <img src="colsprings.jpg" alt="Picture" width="200"/>
 
-Hello, welcome to my website, my name is Michael Burton and I am a recent graduate of North Carolina State University masters of statistics. I am currently searching for positions where I can leverage my data science, analytical, and statistical expertise.
+Hello, welcome to my website, my name is Michael Burton and I am a recent graduate of North Carolina State University masters of statistics. I am currently searching for positions where I can leverage my data science, programmatic, analytical, and statistical expertise.
 
 If you would like to learn more about my skill set you can click [here](https://michaeleburton.github.io/about/). 
 
 ## Professional Interests
 + Programming (Statistical or not; I am currently teaching myself [C++](https://github.com/MichaelEBurton/PPP_Cpp))
+  - [SAS](https://github.com/MichaelEBurton/SAS_Samples), R, Python, SQL, C++ 
 + Statistical Data Analysis
 + Machine Learning (I'm was recently in a [deep learning reading group](https://github.com/AlvinSheng/SLG-Deep-Learning))
 
@@ -26,8 +27,6 @@ As someone who is always eager to learn new and exciting technologies here is a 
      
 + Books I'm paging my way through 
   - [Programming -- Principles and Practice using C++](http://www.stroustrup.com/Programming/)
-  - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-  - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
   
   
   
@@ -38,11 +37,13 @@ As someone who is always eager to learn new and exciting technologies here is a 
   - [Deep Learning](https://www.deeplearningbook.org/)
   - [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
   - [A whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+  - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
   - [Learning SAS by Example](https://www.sas.com/store/books/categories/getting-started/learning-sas-by-example-a-programmer-s-guide-second-edition/prodBK_71442_en.html)
+
 
 + Wishlist
   - [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
-  - [Machine Learning a Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-1)
   
 ## Contact Me
 If you would like to get in touch with me about potential job opportunities, statistics, machine learning, or the BWCAW, shoot me an email.
