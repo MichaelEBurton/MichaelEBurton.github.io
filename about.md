@@ -10,7 +10,7 @@ My name is Michael Burton, a North Carolina native, and recent master's of stati
 
 During my time at NC State, I was fortunate to supplement my education with practical experience in data analysis gained through undergraduate research, consulting experiences, and interning with multiple fortune 500 companies. In addition to the technical skills I gained in these various roles I was able to practice interpersonal skills while working both independently and collaboratively in a team based setting. 
 
-I am currently open to new opportunities where I can leverage my data analysis and programming skills. Examples of positions I am interested in include: statistical programmer, statistician, data scientist, and data analyst.
+I am currently working as a Biostatistician, and not open to new work opportunities.
 
 For a copy of my current resume click [here]({{ https://MichaelEBurton.github.io }}/Professional_resume_fall2020.pdf) 
 

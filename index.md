@@ -5,7 +5,7 @@ title: Home
 
 <img src="colsprings.jpg" alt="Picture" width="200"/>
 
-Hello, welcome to my website, my name is Michael Burton and I am a recent graduate of North Carolina State University masters of statistics. I am currently searching for positions where I can leverage my data science, programmatic, analytical, and statistical expertise.
+Hello, welcome to my website, my name is Michael Burton and I am a graduate of North Carolina State University's masters of statistics program. I am currently working as a Biostatistician and am thrilled to be contributing to such an amazing field.
 
 If you would like to learn more about my skill set you can click [here](https://michaeleburton.github.io/about/). 
 
